@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(255,230,230);
+	color: rgb(30,30,30);
+	font-family: Courier, monospace;
+	text-align: justify;
+}
+
+h1 { 
+
+	color: rgb(30,30,30);
+	font-family: helvetica;
+	font-size: 40px;
+	letter-spacing: 10px
+}
+
+h2{
+	font-size: 30px 
+	letter-spacing : 5px;
+	font-family: helvetica;
+}
+
+a{
+	color: red;
+	text-decoration: color 0.3s ease;
+}
+a:hover {
+	color: blue
+	text-decoration: non;
+}
+
+p{
+	color:black;
+	font-family: helvetica;
+	font-size: 20px
+}
+
+.container {
+	width: 700px;
+	margin: 20px auto;
+
+}
+
+.card-pink {
+	padding: 24px;
+	padding-top: 1px;
+	background-color: brown;
+	margin: 30px auto;
+	border-radius: 4px;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0.1)
+}
